@@ -5,7 +5,7 @@ Contact us to develop and deploy your own ZEN crypto mining pool with equihash a
 
 
 - [x]  **Discord:** `goodthebest#6606` Open your Discard and go to **Friends** and then **Add Friend** (add `goodthebest#6606`) and press **Send Friend Request** button.
-- [x]  **Telegram:**  add `@goodthebest` **or** go to https://t.me/goodthebest
+- [x]  **Telegram:**   go to https://t.me/goodthebest
 - [x] **BitcoinTalk forum:** To send Inbox message [click here](https://bitcointalk.org/index.php?action=pm;sa=send;u=1782856)
 - [x]  **Email:**  onlinebuybiz@gmail.com
 - [x]  **Skype:**  add this email `onlinebuybiz@gmail.com` in your skype search and you will see **theonly-1**
